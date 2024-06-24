@@ -86,7 +86,9 @@ For common issues, ensure:**
 You have correctly deployed the contract.
 You are entering the correct parameters for minting and burning tokens.
 Transactions are confirmed in Remix (look for the green checkmark or success message).
-Authors
+
+## Authors
 Emerson D. Muli II - eidmuli@mymail.mapua.edu.ph
-License
+
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
