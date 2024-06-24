@@ -90,5 +90,5 @@ Transactions are confirmed in Remix (look for the green checkmark or success mes
 ## Authors
 Emerson D. Muli II - eidmuli@mymail.mapua.edu.ph
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
