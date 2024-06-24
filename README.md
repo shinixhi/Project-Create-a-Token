@@ -15,6 +15,7 @@ Go to the Remix website.
 Click on the "+" icon in the left-hand sidebar.
 Save the file with a .sol extension (e.g., MyToken.sol).
 Copy and Paste the Code:
+
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
