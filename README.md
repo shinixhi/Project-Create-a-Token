@@ -15,7 +15,6 @@ mint: This function increases the total supply of tokens and the balance of a sp
 burn: This function decreases the total supply of tokens and the balance of a specified address, with a check to ensure the address has enough tokens to burn.
 Contract Code
 solidity
-Copy code
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
@@ -43,6 +42,7 @@ contract MyToken {
         }
     }
 }
+
 Detailed Explanation
 Public Variables
 tokenName: This is a string that holds the name of the token. In this contract, the token name is "Shinixhi".
